@@ -13,10 +13,9 @@
         },
         {
             "type": "java",
-            "name": "Launch Program",
+            "name": "Launch Program with correct file",
             "request": "launch",
             "mainClass": "GridProgram",
-            "projectName": "grid-example_1d374da1",
         }
     ]
 }
